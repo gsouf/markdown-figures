@@ -1,7 +1,7 @@
 from setuptools import setup
 setup(
-    name='mardown-caption',
+    name='markdown-figure',
     version='1.0',
-    py_modules=['caption'],
+    py_modules=['captions'],
     install_requires = ['markdown'],
 )
